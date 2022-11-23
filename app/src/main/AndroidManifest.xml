@@ -13,10 +13,8 @@
         android:theme="@style/Theme.IntelligentInput"
         tools:targetApi="31">
         <activity
-            android:name=".GarageActivity"
-            android:exported="true"
-            android:label="@string/title_activity_garage"
-            android:theme="@style/Theme.IntelligentInput.NoActionBar">
+            android:name=".ExperianceActivity"
+            android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
